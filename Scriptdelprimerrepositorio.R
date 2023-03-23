@@ -11,4 +11,9 @@ write.csv(iris, "iris.csv")
 install.packages('rmarkdown')
 
 
+<<<<<<< HEAD
 #mi primer cambio 
+=======
+#Comentario
+#Comentario
+>>>>>>> Mariel
